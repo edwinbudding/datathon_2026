@@ -1,0 +1,64 @@
+YEAR,CURRENT ROUND,A_TEAM,A_SEED,B_TEAM,B_SEED,A_WIN,XGB_REG_PRED,RF_PRED,NN_PRED,CHALK_PRED
+2025,64,Auburn,1,Alabama St.,16,1,1,1,1,1
+2025,64,Louisville,8,Creighton,9,0,1,1,1,1
+2025,64,Michigan,5,UC San Diego,12,1,1,1,0,1
+2025,64,Texas A&M,4,Yale,13,1,1,1,1,1
+2025,64,Mississippi,6,North Carolina,11,1,1,1,0,1
+2025,64,Iowa St.,3,Lipscomb,14,1,1,1,1,1
+2025,64,Marquette,7,New Mexico,10,0,1,1,1,1
+2025,64,Michigan St.,2,Bryant,15,1,1,1,1,1
+2025,64,Florida,1,Norfolk St.,16,1,1,1,1,1
+2025,64,Connecticut,8,Oklahoma,9,1,1,1,1,1
+2025,64,Memphis,5,Colorado St.,12,0,0,0,0,1
+2025,64,Maryland,4,Grand Canyon,13,1,1,1,1,1
+2025,64,Missouri,6,Drake,11,0,1,1,1,1
+2025,64,Texas Tech,3,UNC Wilmington,14,1,1,1,1,1
+2025,64,Kansas,7,Arkansas,10,0,0,1,0,1
+2025,64,St. John's,2,Nebraska Omaha,15,1,1,1,1,1
+2025,64,Duke,1,Mount St. Mary's,16,1,1,1,1,1
+2025,64,Mississippi St.,8,Baylor,9,0,0,0,0,1
+2025,64,Oregon,5,Liberty,12,1,1,1,1,1
+2025,64,Arizona,4,Akron,13,1,1,1,1,1
+2025,64,BYU,6,VCU,11,1,0,0,1,1
+2025,64,Wisconsin,3,Montana,14,1,1,1,1,1
+2025,64,Saint Mary's,7,Vanderbilt,10,1,1,1,1,1
+2025,64,Alabama,2,Robert Morris,15,1,1,1,1,1
+2025,64,Houston,1,SIU Edwardsville,16,1,1,1,1,1
+2025,64,Gonzaga,8,Georgia,9,1,1,1,1,1
+2025,64,Clemson,5,McNeese St.,12,0,1,1,1,1
+2025,64,Purdue,4,High Point,13,1,1,1,1,1
+2025,64,Illinois,6,Xavier,11,1,1,1,1,1
+2025,64,Kentucky,3,Troy,14,1,1,1,1,1
+2025,64,UCLA,7,Utah St.,10,1,1,1,1,1
+2025,64,Tennessee,2,Wofford,15,1,1,1,1,1
+2025,32,Auburn,1,Creighton,9,1,1,1,1,1
+2025,32,Michigan,5,Texas A&M,4,1,0,0,0,0
+2025,32,Mississippi,6,Iowa St.,3,1,0,0,0,0
+2025,32,New Mexico,10,Michigan St.,2,0,0,0,0,0
+2025,32,Florida,1,Connecticut,8,1,1,1,1,1
+2025,32,Colorado St.,12,Maryland,4,0,0,0,0,0
+2025,32,Drake,11,Texas Tech,3,0,0,0,0,0
+2025,32,Arkansas,10,St. John's,2,1,0,0,0,0
+2025,32,Duke,1,Baylor,9,1,1,1,1,1
+2025,32,Oregon,5,Arizona,4,0,0,0,0,0
+2025,32,BYU,6,Wisconsin,3,1,0,0,0,0
+2025,32,Saint Mary's,7,Alabama,2,0,0,0,1,0
+2025,32,Houston,1,Gonzaga,8,1,1,1,1,1
+2025,32,McNeese St.,12,Purdue,4,0,0,0,0,0
+2025,32,Illinois,6,Kentucky,3,0,0,0,0,0
+2025,32,UCLA,7,Tennessee,2,0,0,0,0,0
+2025,16,Auburn,1,Michigan,5,1,1,1,1,1
+2025,16,Mississippi,6,Michigan St.,2,0,0,0,0,0
+2025,16,Florida,1,Maryland,4,1,1,1,1,1
+2025,16,Texas Tech,3,Arkansas,10,1,1,1,1,1
+2025,16,Duke,1,Arizona,4,1,1,1,1,1
+2025,16,BYU,6,Alabama,2,0,0,0,0,0
+2025,16,Houston,1,Purdue,4,1,1,1,1,1
+2025,16,Kentucky,3,Tennessee,2,0,0,0,0,0
+2025,8,Auburn,1,Michigan St.,2,1,1,1,0,1
+2025,8,Florida,1,Texas Tech,3,1,1,1,1,1
+2025,8,Duke,1,Alabama,2,1,1,1,1,1
+2025,8,Houston,1,Tennessee,2,1,1,1,1,1
+2025,4,Auburn,1,Florida,1,0,0,0,0,0
+2025,4,Duke,1,Houston,1,0,0,0,0,0
+2025,2,Florida,1,Houston,1,1,0,0,0,0

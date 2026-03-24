@@ -1,0 +1,68 @@
+game,team_a,team_b,prob_team_a,winner
+First Four: Lehigh vs Prairie View A&M,Lehigh,Prairie View A&M,0.41592532,Prairie View A&M
+First Four: North Carolina St. vs Texas,North Carolina St.,Texas,0.53787935,North Carolina St.
+First Four: Howard vs UMBC,Howard,UMBC,0.33523595,UMBC
+First Four: SMU vs Miami OH,SMU,Miami OH,0.6192295,SMU
+R64: Duke vs Siena,Duke,Siena,0.789,Duke
+R64: Ohio St. vs TCU,Ohio St.,TCU,0.505,Ohio St.
+R64: St. John's vs Northern Iowa,St. John's,Northern Iowa,0.768,St. John's
+R64: Kansas vs Cal Baptist,Kansas,Cal Baptist,0.761,Kansas
+R64: Louisville vs South Florida,Louisville,South Florida,0.559,Louisville
+R64: Michigan St. vs North Dakota St.,Michigan St.,North Dakota St.,0.753,Michigan St.
+R64: UCLA vs UCF,UCLA,UCF,0.645,UCLA
+R64: Connecticut vs Furman,Connecticut,Furman,0.823,Connecticut
+R64: Florida vs Prairie View A&M,Florida,Prairie View A&M,0.706,Florida
+R64: Clemson vs Iowa,Clemson,Iowa,0.359,Iowa
+R64: Vanderbilt vs McNeese St.,Vanderbilt,McNeese St.,0.626,Vanderbilt
+R64: Nebraska vs Troy,Nebraska,Troy,0.772,Nebraska
+R64: North Carolina vs VCU,North Carolina,VCU,0.516,North Carolina
+R64: Illinois vs Penn,Illinois,Penn,0.74,Illinois
+R64: Saint Mary's vs Texas A&M,Saint Mary's,Texas A&M,0.5,Saint Mary's
+R64: Houston vs Idaho,Houston,Idaho,0.841,Houston
+R64: Arizona vs LIU Brooklyn,Arizona,LIU Brooklyn,0.775,Arizona
+R64: Villanova vs Utah St.,Villanova,Utah St.,0.37,Utah St.
+R64: Wisconsin vs High Point,Wisconsin,High Point,0.691,Wisconsin
+R64: Arkansas vs Hawaii,Arkansas,Hawaii,0.765,Arkansas
+R64: BYU vs North Carolina St.,BYU,North Carolina St.,0.512,BYU
+R64: Gonzaga vs Kennesaw St.,Gonzaga,Kennesaw St.,0.804,Gonzaga
+R64: Miami FL vs Missouri,Miami FL,Missouri,0.598,Miami FL
+R64: Purdue vs Queens,Purdue,Queens,0.774,Purdue
+R64: Michigan vs UMBC,Michigan,UMBC,0.804,Michigan
+R64: Georgia vs Saint Louis,Georgia,Saint Louis,0.589,Georgia
+R64: Texas Tech vs Akron,Texas Tech,Akron,0.654,Texas Tech
+R64: Alabama vs Hofstra,Alabama,Hofstra,0.754,Alabama
+R64: Tennessee vs SMU,Tennessee,SMU,0.621,Tennessee
+R64: Virginia vs Wright St.,Virginia,Wright St.,0.804,Virginia
+R64: Kentucky vs Santa Clara,Kentucky,Santa Clara,0.477,Santa Clara
+R64: Iowa St. vs Tennessee St.,Iowa St.,Tennessee St.,0.776,Iowa St.
+R32: Duke vs Ohio St.,Duke,Ohio St.,0.676,Duke
+R32: St. John's vs Kansas,St. John's,Kansas,0.567,St. John's
+R32: Louisville vs Michigan St.,Louisville,Michigan St.,0.401,Michigan St.
+R32: UCLA vs Connecticut,UCLA,Connecticut,0.37,Connecticut
+R32: Florida vs Iowa,Florida,Iowa,0.632,Florida
+R32: Vanderbilt vs Nebraska,Vanderbilt,Nebraska,0.49,Nebraska
+R32: North Carolina vs Illinois,North Carolina,Illinois,0.319,Illinois
+R32: Saint Mary's vs Houston,Saint Mary's,Houston,0.316,Houston
+R32: Arizona vs Utah St.,Arizona,Utah St.,0.665,Arizona
+R32: Wisconsin vs Arkansas,Wisconsin,Arkansas,0.34,Arkansas
+R32: BYU vs Gonzaga,BYU,Gonzaga,0.41,Gonzaga
+R32: Miami FL vs Purdue,Miami FL,Purdue,0.332,Purdue
+R32: Michigan vs Georgia,Michigan,Georgia,0.642,Michigan
+R32: Texas Tech vs Alabama,Texas Tech,Alabama,0.378,Alabama
+R32: Tennessee vs Virginia,Tennessee,Virginia,0.423,Virginia
+R32: Santa Clara vs Iowa St.,Santa Clara,Iowa St.,0.293,Iowa St.
+S16: Duke vs St. John's,Duke,St. John's,0.606,Duke
+S16: Michigan St. vs Connecticut,Michigan St.,Connecticut,0.352,Connecticut
+S16: Florida vs Nebraska,Florida,Nebraska,0.516,Florida
+S16: Illinois vs Houston,Illinois,Houston,0.382,Houston
+S16: Arizona vs Arkansas,Arizona,Arkansas,0.562,Arizona
+S16: Gonzaga vs Purdue,Gonzaga,Purdue,0.35,Purdue
+S16: Michigan vs Alabama,Michigan,Alabama,0.63,Michigan
+S16: Virginia vs Iowa St.,Virginia,Iowa St.,0.341,Iowa St.
+E8: Duke vs Connecticut,Duke,Connecticut,0.619,Duke
+E8: Florida vs Houston,Florida,Houston,0.381,Houston
+E8: Arizona vs Purdue,Arizona,Purdue,0.588,Arizona
+E8: Michigan vs Iowa St.,Michigan,Iowa St.,0.566,Michigan
+F4: Duke vs Houston,Duke,Houston,0.49,Houston
+F4: Arizona vs Michigan,Arizona,Michigan,0.44,Michigan
+Final: Houston vs Michigan,Houston,Michigan,0.422,Michigan

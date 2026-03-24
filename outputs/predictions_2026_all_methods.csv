@@ -1,0 +1,442 @@
+method,round,winner,winner_seed,loser,loser_seed
+XGBoost,R64,Duke,1,Siena,16
+XGBoost,R64,Ohio St.,8,TCU,9
+XGBoost,R64,St. John's,5,Northern Iowa,12
+XGBoost,R64,Kansas,4,Cal Baptist,13
+XGBoost,R64,Louisville,6,South Florida,11
+XGBoost,R64,Michigan St.,3,North Dakota St.,14
+XGBoost,R64,UCLA,7,UCF,10
+XGBoost,R64,Connecticut,2,Furman,15
+XGBoost,R64,Florida,1,Prairie View A&M,16
+XGBoost,R64,Iowa,9,Clemson,8
+XGBoost,R64,Vanderbilt,5,McNeese St.,12
+XGBoost,R64,Nebraska,4,Troy,13
+XGBoost,R64,North Carolina,6,VCU,11
+XGBoost,R64,Illinois,3,Penn,14
+XGBoost,R64,Saint Mary's,7,Texas A&M,10
+XGBoost,R64,Houston,2,Idaho,15
+XGBoost,R64,Arizona,1,LIU Brooklyn,16
+XGBoost,R64,Utah St.,9,Villanova,8
+XGBoost,R64,Wisconsin,5,High Point,12
+XGBoost,R64,Arkansas,4,Hawaii,13
+XGBoost,R64,BYU,6,North Carolina St.,11
+XGBoost,R64,Gonzaga,3,Kennesaw St.,14
+XGBoost,R64,Miami FL,7,Missouri,10
+XGBoost,R64,Purdue,2,Queens,15
+XGBoost,R64,Michigan,1,UMBC,16
+XGBoost,R64,Georgia,8,Saint Louis,9
+XGBoost,R64,Texas Tech,5,Akron,12
+XGBoost,R64,Alabama,4,Hofstra,13
+XGBoost,R64,Tennessee,6,SMU,11
+XGBoost,R64,Virginia,3,Wright St.,14
+XGBoost,R64,Santa Clara,10,Kentucky,7
+XGBoost,R64,Iowa St.,2,Tennessee St.,15
+XGBoost,R32,Duke,1,Ohio St.,8
+XGBoost,R32,St. John's,5,Kansas,4
+XGBoost,R32,Michigan St.,3,Louisville,6
+XGBoost,R32,Connecticut,2,UCLA,7
+XGBoost,R32,Florida,1,Iowa,9
+XGBoost,R32,Nebraska,4,Vanderbilt,5
+XGBoost,R32,Illinois,3,North Carolina,6
+XGBoost,R32,Houston,2,Saint Mary's,7
+XGBoost,R32,Arizona,1,Utah St.,9
+XGBoost,R32,Arkansas,4,Wisconsin,5
+XGBoost,R32,Gonzaga,3,BYU,6
+XGBoost,R32,Purdue,2,Miami FL,7
+XGBoost,R32,Michigan,1,Georgia,8
+XGBoost,R32,Alabama,4,Texas Tech,5
+XGBoost,R32,Virginia,3,Tennessee,6
+XGBoost,R32,Iowa St.,2,Santa Clara,10
+XGBoost,S16,Duke,1,St. John's,5
+XGBoost,S16,Connecticut,2,Michigan St.,3
+XGBoost,S16,Florida,1,Nebraska,4
+XGBoost,S16,Houston,2,Illinois,3
+XGBoost,S16,Arizona,1,Arkansas,4
+XGBoost,S16,Purdue,2,Gonzaga,3
+XGBoost,S16,Michigan,1,Alabama,4
+XGBoost,S16,Iowa St.,2,Virginia,3
+XGBoost,E8,Duke,1,Connecticut,2
+XGBoost,E8,Houston,2,Florida,1
+XGBoost,E8,Arizona,1,Purdue,2
+XGBoost,E8,Michigan,1,Iowa St.,2
+XGBoost,F4,Houston,2,Duke,1
+XGBoost,F4,Michigan,1,Arizona,1
+XGBoost,Final,Michigan,1,Houston,2
+Random Forest,R64,Duke,1,Siena,16
+Random Forest,R64,TCU,9,Ohio St.,8
+Random Forest,R64,St. John's,5,Northern Iowa,12
+Random Forest,R64,Kansas,4,Cal Baptist,13
+Random Forest,R64,South Florida,11,Louisville,6
+Random Forest,R64,Michigan St.,3,North Dakota St.,14
+Random Forest,R64,UCLA,7,UCF,10
+Random Forest,R64,Connecticut,2,Furman,15
+Random Forest,R64,Florida,1,Prairie View A&M,16
+Random Forest,R64,Iowa,9,Clemson,8
+Random Forest,R64,Vanderbilt,5,McNeese St.,12
+Random Forest,R64,Nebraska,4,Troy,13
+Random Forest,R64,VCU,11,North Carolina,6
+Random Forest,R64,Illinois,3,Penn,14
+Random Forest,R64,Texas A&M,10,Saint Mary's,7
+Random Forest,R64,Houston,2,Idaho,15
+Random Forest,R64,Arizona,1,LIU Brooklyn,16
+Random Forest,R64,Utah St.,9,Villanova,8
+Random Forest,R64,Wisconsin,5,High Point,12
+Random Forest,R64,Arkansas,4,Hawaii,13
+Random Forest,R64,North Carolina St.,11,BYU,6
+Random Forest,R64,Gonzaga,3,Kennesaw St.,14
+Random Forest,R64,Miami FL,7,Missouri,10
+Random Forest,R64,Purdue,2,Queens,15
+Random Forest,R64,Michigan,1,UMBC,16
+Random Forest,R64,Georgia,8,Saint Louis,9
+Random Forest,R64,Texas Tech,5,Akron,12
+Random Forest,R64,Alabama,4,Hofstra,13
+Random Forest,R64,Tennessee,6,SMU,11
+Random Forest,R64,Virginia,3,Wright St.,14
+Random Forest,R64,Santa Clara,10,Kentucky,7
+Random Forest,R64,Iowa St.,2,Tennessee St.,15
+Random Forest,R32,Duke,1,TCU,9
+Random Forest,R32,St. John's,5,Kansas,4
+Random Forest,R32,Michigan St.,3,South Florida,11
+Random Forest,R32,Connecticut,2,UCLA,7
+Random Forest,R32,Florida,1,Iowa,9
+Random Forest,R32,Vanderbilt,5,Nebraska,4
+Random Forest,R32,Illinois,3,VCU,11
+Random Forest,R32,Houston,2,Texas A&M,10
+Random Forest,R32,Arizona,1,Utah St.,9
+Random Forest,R32,Arkansas,4,Wisconsin,5
+Random Forest,R32,Gonzaga,3,North Carolina St.,11
+Random Forest,R32,Purdue,2,Miami FL,7
+Random Forest,R32,Michigan,1,Georgia,8
+Random Forest,R32,Alabama,4,Texas Tech,5
+Random Forest,R32,Virginia,3,Tennessee,6
+Random Forest,R32,Iowa St.,2,Santa Clara,10
+Random Forest,S16,Duke,1,St. John's,5
+Random Forest,S16,Connecticut,2,Michigan St.,3
+Random Forest,S16,Vanderbilt,5,Florida,1
+Random Forest,S16,Houston,2,Illinois,3
+Random Forest,S16,Arizona,1,Arkansas,4
+Random Forest,S16,Purdue,2,Gonzaga,3
+Random Forest,S16,Michigan,1,Alabama,4
+Random Forest,S16,Iowa St.,2,Virginia,3
+Random Forest,E8,Duke,1,Connecticut,2
+Random Forest,E8,Houston,2,Vanderbilt,5
+Random Forest,E8,Arizona,1,Purdue,2
+Random Forest,E8,Michigan,1,Iowa St.,2
+Random Forest,F4,Houston,2,Duke,1
+Random Forest,F4,Michigan,1,Arizona,1
+Random Forest,Final,Michigan,1,Houston,2
+Neural Net,R64,Duke,1,Siena,16
+Neural Net,R64,TCU,9,Ohio St.,8
+Neural Net,R64,St. John's,5,Northern Iowa,12
+Neural Net,R64,Kansas,4,Cal Baptist,13
+Neural Net,R64,Louisville,6,South Florida,11
+Neural Net,R64,Michigan St.,3,North Dakota St.,14
+Neural Net,R64,UCLA,7,UCF,10
+Neural Net,R64,Connecticut,2,Furman,15
+Neural Net,R64,Florida,1,Prairie View A&M,16
+Neural Net,R64,Iowa,9,Clemson,8
+Neural Net,R64,McNeese St.,12,Vanderbilt,5
+Neural Net,R64,Nebraska,4,Troy,13
+Neural Net,R64,North Carolina,6,VCU,11
+Neural Net,R64,Illinois,3,Penn,14
+Neural Net,R64,Saint Mary's,7,Texas A&M,10
+Neural Net,R64,Houston,2,Idaho,15
+Neural Net,R64,Arizona,1,LIU Brooklyn,16
+Neural Net,R64,Utah St.,9,Villanova,8
+Neural Net,R64,Wisconsin,5,High Point,12
+Neural Net,R64,Arkansas,4,Hawaii,13
+Neural Net,R64,North Carolina St.,11,BYU,6
+Neural Net,R64,Gonzaga,3,Kennesaw St.,14
+Neural Net,R64,Miami FL,7,Missouri,10
+Neural Net,R64,Purdue,2,Queens,15
+Neural Net,R64,Michigan,1,UMBC,16
+Neural Net,R64,Georgia,8,Saint Louis,9
+Neural Net,R64,Texas Tech,5,Akron,12
+Neural Net,R64,Alabama,4,Hofstra,13
+Neural Net,R64,Tennessee,6,SMU,11
+Neural Net,R64,Virginia,3,Wright St.,14
+Neural Net,R64,Santa Clara,10,Kentucky,7
+Neural Net,R64,Iowa St.,2,Tennessee St.,15
+Neural Net,R32,Duke,1,TCU,9
+Neural Net,R32,St. John's,5,Kansas,4
+Neural Net,R32,Michigan St.,3,Louisville,6
+Neural Net,R32,Connecticut,2,UCLA,7
+Neural Net,R32,Florida,1,Iowa,9
+Neural Net,R32,Nebraska,4,McNeese St.,12
+Neural Net,R32,Illinois,3,North Carolina,6
+Neural Net,R32,Houston,2,Saint Mary's,7
+Neural Net,R32,Arizona,1,Utah St.,9
+Neural Net,R32,Arkansas,4,Wisconsin,5
+Neural Net,R32,Gonzaga,3,North Carolina St.,11
+Neural Net,R32,Purdue,2,Miami FL,7
+Neural Net,R32,Michigan,1,Georgia,8
+Neural Net,R32,Texas Tech,5,Alabama,4
+Neural Net,R32,Virginia,3,Tennessee,6
+Neural Net,R32,Iowa St.,2,Santa Clara,10
+Neural Net,S16,Duke,1,St. John's,5
+Neural Net,S16,Connecticut,2,Michigan St.,3
+Neural Net,S16,Nebraska,4,Florida,1
+Neural Net,S16,Houston,2,Illinois,3
+Neural Net,S16,Arkansas,4,Arizona,1
+Neural Net,S16,Purdue,2,Gonzaga,3
+Neural Net,S16,Michigan,1,Texas Tech,5
+Neural Net,S16,Iowa St.,2,Virginia,3
+Neural Net,E8,Duke,1,Connecticut,2
+Neural Net,E8,Houston,2,Nebraska,4
+Neural Net,E8,Purdue,2,Arkansas,4
+Neural Net,E8,Iowa St.,2,Michigan,1
+Neural Net,F4,Houston,2,Duke,1
+Neural Net,F4,Iowa St.,2,Purdue,2
+Neural Net,Final,Iowa St.,2,Houston,2
+Chalk,R64,Duke,1,Siena,16
+Chalk,R64,Ohio St.,8,TCU,9
+Chalk,R64,St. John's,5,Northern Iowa,12
+Chalk,R64,Kansas,4,Cal Baptist,13
+Chalk,R64,Louisville,6,South Florida,11
+Chalk,R64,Michigan St.,3,North Dakota St.,14
+Chalk,R64,UCLA,7,UCF,10
+Chalk,R64,Connecticut,2,Furman,15
+Chalk,R64,Florida,1,Lehigh,16
+Chalk,R64,Clemson,8,Iowa,9
+Chalk,R64,Vanderbilt,5,McNeese St.,12
+Chalk,R64,Nebraska,4,Troy,13
+Chalk,R64,North Carolina,6,VCU,11
+Chalk,R64,Illinois,3,Penn,14
+Chalk,R64,Saint Mary's,7,Texas A&M,10
+Chalk,R64,Houston,2,Idaho,15
+Chalk,R64,Arizona,1,LIU Brooklyn,16
+Chalk,R64,Villanova,8,Utah St.,9
+Chalk,R64,Wisconsin,5,High Point,12
+Chalk,R64,Arkansas,4,Hawaii,13
+Chalk,R64,BYU,6,North Carolina St.,11
+Chalk,R64,Gonzaga,3,Kennesaw St.,14
+Chalk,R64,Miami FL,7,Missouri,10
+Chalk,R64,Purdue,2,Queens,15
+Chalk,R64,Michigan,1,Howard,16
+Chalk,R64,Georgia,8,Saint Louis,9
+Chalk,R64,Texas Tech,5,Akron,12
+Chalk,R64,Alabama,4,Hofstra,13
+Chalk,R64,Tennessee,6,SMU,11
+Chalk,R64,Virginia,3,Wright St.,14
+Chalk,R64,Kentucky,7,Santa Clara,10
+Chalk,R64,Iowa St.,2,Tennessee St.,15
+Chalk,R32,Duke,1,Ohio St.,8
+Chalk,R32,Kansas,4,St. John's,5
+Chalk,R32,Michigan St.,3,Louisville,6
+Chalk,R32,Connecticut,2,UCLA,7
+Chalk,R32,Florida,1,Clemson,8
+Chalk,R32,Nebraska,4,Vanderbilt,5
+Chalk,R32,Illinois,3,North Carolina,6
+Chalk,R32,Houston,2,Saint Mary's,7
+Chalk,R32,Arizona,1,Villanova,8
+Chalk,R32,Arkansas,4,Wisconsin,5
+Chalk,R32,Gonzaga,3,BYU,6
+Chalk,R32,Purdue,2,Miami FL,7
+Chalk,R32,Michigan,1,Georgia,8
+Chalk,R32,Alabama,4,Texas Tech,5
+Chalk,R32,Virginia,3,Tennessee,6
+Chalk,R32,Iowa St.,2,Kentucky,7
+Chalk,S16,Duke,1,Kansas,4
+Chalk,S16,Connecticut,2,Michigan St.,3
+Chalk,S16,Florida,1,Nebraska,4
+Chalk,S16,Houston,2,Illinois,3
+Chalk,S16,Arizona,1,Arkansas,4
+Chalk,S16,Purdue,2,Gonzaga,3
+Chalk,S16,Michigan,1,Alabama,4
+Chalk,S16,Iowa St.,2,Virginia,3
+Chalk,E8,Duke,1,Connecticut,2
+Chalk,E8,Florida,1,Houston,2
+Chalk,E8,Arizona,1,Purdue,2
+Chalk,E8,Michigan,1,Iowa St.,2
+Chalk,F4,Duke,1,Florida,1
+Chalk,F4,Arizona,1,Michigan,1
+Chalk,Final,Duke,1,Arizona,1
+KADJ EM,R64,Duke,1,Siena,16
+KADJ EM,R64,Ohio St.,8,TCU,9
+KADJ EM,R64,St. John's,5,Northern Iowa,12
+KADJ EM,R64,Kansas,4,Cal Baptist,13
+KADJ EM,R64,Louisville,6,South Florida,11
+KADJ EM,R64,Michigan St.,3,North Dakota St.,14
+KADJ EM,R64,UCLA,7,UCF,10
+KADJ EM,R64,Connecticut,2,Furman,15
+KADJ EM,R64,Florida,1,Lehigh,16
+KADJ EM,R64,Iowa,9,Clemson,8
+KADJ EM,R64,Vanderbilt,5,McNeese St.,12
+KADJ EM,R64,Nebraska,4,Troy,13
+KADJ EM,R64,North Carolina,6,VCU,11
+KADJ EM,R64,Illinois,3,Penn,14
+KADJ EM,R64,Saint Mary's,7,Texas A&M,10
+KADJ EM,R64,Houston,2,Idaho,15
+KADJ EM,R64,Arizona,1,LIU Brooklyn,16
+KADJ EM,R64,Utah St.,9,Villanova,8
+KADJ EM,R64,Wisconsin,5,High Point,12
+KADJ EM,R64,Arkansas,4,Hawaii,13
+KADJ EM,R64,BYU,6,North Carolina St.,11
+KADJ EM,R64,Gonzaga,3,Kennesaw St.,14
+KADJ EM,R64,Miami FL,7,Missouri,10
+KADJ EM,R64,Purdue,2,Queens,15
+KADJ EM,R64,Michigan,1,UMBC,16
+KADJ EM,R64,Georgia,8,Saint Louis,9
+KADJ EM,R64,Texas Tech,5,Akron,12
+KADJ EM,R64,Alabama,4,Hofstra,13
+KADJ EM,R64,Tennessee,6,SMU,11
+KADJ EM,R64,Virginia,3,Wright St.,14
+KADJ EM,R64,Kentucky,7,Santa Clara,10
+KADJ EM,R64,Iowa St.,2,Tennessee St.,15
+KADJ EM,R32,Duke,1,Ohio St.,8
+KADJ EM,R32,St. John's,5,Kansas,4
+KADJ EM,R32,Michigan St.,3,Louisville,6
+KADJ EM,R32,Connecticut,2,UCLA,7
+KADJ EM,R32,Florida,1,Iowa,9
+KADJ EM,R32,Vanderbilt,5,Nebraska,4
+KADJ EM,R32,Illinois,3,North Carolina,6
+KADJ EM,R32,Houston,2,Saint Mary's,7
+KADJ EM,R32,Arizona,1,Utah St.,9
+KADJ EM,R32,Arkansas,4,Wisconsin,5
+KADJ EM,R32,Gonzaga,3,BYU,6
+KADJ EM,R32,Purdue,2,Miami FL,7
+KADJ EM,R32,Michigan,1,Georgia,8
+KADJ EM,R32,Alabama,4,Texas Tech,5
+KADJ EM,R32,Virginia,3,Tennessee,6
+KADJ EM,R32,Iowa St.,2,Kentucky,7
+KADJ EM,S16,Duke,1,St. John's,5
+KADJ EM,S16,Michigan St.,3,Connecticut,2
+KADJ EM,S16,Florida,1,Vanderbilt,5
+KADJ EM,S16,Houston,2,Illinois,3
+KADJ EM,S16,Arizona,1,Arkansas,4
+KADJ EM,S16,Purdue,2,Gonzaga,3
+KADJ EM,S16,Michigan,1,Alabama,4
+KADJ EM,S16,Iowa St.,2,Virginia,3
+KADJ EM,E8,Duke,1,Michigan St.,3
+KADJ EM,E8,Florida,1,Houston,2
+KADJ EM,E8,Arizona,1,Purdue,2
+KADJ EM,E8,Michigan,1,Iowa St.,2
+KADJ EM,F4,Duke,1,Florida,1
+KADJ EM,F4,Arizona,1,Michigan,1
+KADJ EM,Final,Duke,1,Arizona,1
+BARTHAG,R64,Duke,1,Siena,16
+BARTHAG,R64,Ohio St.,8,TCU,9
+BARTHAG,R64,St. John's,5,Northern Iowa,12
+BARTHAG,R64,Kansas,4,Cal Baptist,13
+BARTHAG,R64,Louisville,6,South Florida,11
+BARTHAG,R64,Michigan St.,3,North Dakota St.,14
+BARTHAG,R64,UCLA,7,UCF,10
+BARTHAG,R64,Connecticut,2,Furman,15
+BARTHAG,R64,Florida,1,Prairie View A&M,16
+BARTHAG,R64,Iowa,9,Clemson,8
+BARTHAG,R64,Vanderbilt,5,McNeese St.,12
+BARTHAG,R64,Nebraska,4,Troy,13
+BARTHAG,R64,North Carolina,6,VCU,11
+BARTHAG,R64,Illinois,3,Penn,14
+BARTHAG,R64,Saint Mary's,7,Texas A&M,10
+BARTHAG,R64,Houston,2,Idaho,15
+BARTHAG,R64,Arizona,1,LIU Brooklyn,16
+BARTHAG,R64,Utah St.,9,Villanova,8
+BARTHAG,R64,Wisconsin,5,High Point,12
+BARTHAG,R64,Arkansas,4,Hawaii,13
+BARTHAG,R64,BYU,6,North Carolina St.,11
+BARTHAG,R64,Gonzaga,3,Kennesaw St.,14
+BARTHAG,R64,Miami FL,7,Missouri,10
+BARTHAG,R64,Purdue,2,Queens,15
+BARTHAG,R64,Michigan,1,UMBC,16
+BARTHAG,R64,Georgia,8,Saint Louis,9
+BARTHAG,R64,Texas Tech,5,Akron,12
+BARTHAG,R64,Alabama,4,Hofstra,13
+BARTHAG,R64,Tennessee,6,SMU,11
+BARTHAG,R64,Virginia,3,Wright St.,14
+BARTHAG,R64,Santa Clara,10,Kentucky,7
+BARTHAG,R64,Iowa St.,2,Tennessee St.,15
+BARTHAG,R32,Duke,1,Ohio St.,8
+BARTHAG,R32,St. John's,5,Kansas,4
+BARTHAG,R32,Michigan St.,3,Louisville,6
+BARTHAG,R32,Connecticut,2,UCLA,7
+BARTHAG,R32,Florida,1,Iowa,9
+BARTHAG,R32,Vanderbilt,5,Nebraska,4
+BARTHAG,R32,Illinois,3,North Carolina,6
+BARTHAG,R32,Houston,2,Saint Mary's,7
+BARTHAG,R32,Arizona,1,Utah St.,9
+BARTHAG,R32,Arkansas,4,Wisconsin,5
+BARTHAG,R32,Gonzaga,3,BYU,6
+BARTHAG,R32,Purdue,2,Miami FL,7
+BARTHAG,R32,Michigan,1,Georgia,8
+BARTHAG,R32,Texas Tech,5,Alabama,4
+BARTHAG,R32,Virginia,3,Tennessee,6
+BARTHAG,R32,Iowa St.,2,Santa Clara,10
+BARTHAG,S16,Duke,1,St. John's,5
+BARTHAG,S16,Connecticut,2,Michigan St.,3
+BARTHAG,S16,Florida,1,Vanderbilt,5
+BARTHAG,S16,Houston,2,Illinois,3
+BARTHAG,S16,Arizona,1,Arkansas,4
+BARTHAG,S16,Purdue,2,Gonzaga,3
+BARTHAG,S16,Michigan,1,Texas Tech,5
+BARTHAG,S16,Iowa St.,2,Virginia,3
+BARTHAG,E8,Duke,1,Connecticut,2
+BARTHAG,E8,Florida,1,Houston,2
+BARTHAG,E8,Arizona,1,Purdue,2
+BARTHAG,E8,Michigan,1,Iowa St.,2
+BARTHAG,F4,Duke,1,Florida,1
+BARTHAG,F4,Michigan,1,Arizona,1
+BARTHAG,Final,Duke,1,Michigan,1
+TR RATING,R64,Duke,1,Siena,16
+TR RATING,R64,Ohio St.,8,TCU,9
+TR RATING,R64,St. John's,5,Northern Iowa,12
+TR RATING,R64,Kansas,4,Cal Baptist,13
+TR RATING,R64,Louisville,6,South Florida,11
+TR RATING,R64,Michigan St.,3,North Dakota St.,14
+TR RATING,R64,UCLA,7,UCF,10
+TR RATING,R64,Connecticut,2,Furman,15
+TR RATING,R64,Florida,1,Lehigh,16
+TR RATING,R64,Iowa,9,Clemson,8
+TR RATING,R64,Vanderbilt,5,McNeese St.,12
+TR RATING,R64,Nebraska,4,Troy,13
+TR RATING,R64,North Carolina,6,VCU,11
+TR RATING,R64,Illinois,3,Penn,14
+TR RATING,R64,Saint Mary's,7,Texas A&M,10
+TR RATING,R64,Houston,2,Idaho,15
+TR RATING,R64,Arizona,1,LIU Brooklyn,16
+TR RATING,R64,Utah St.,9,Villanova,8
+TR RATING,R64,Wisconsin,5,High Point,12
+TR RATING,R64,Arkansas,4,Hawaii,13
+TR RATING,R64,BYU,6,North Carolina St.,11
+TR RATING,R64,Gonzaga,3,Kennesaw St.,14
+TR RATING,R64,Miami FL,7,Missouri,10
+TR RATING,R64,Purdue,2,Queens,15
+TR RATING,R64,Michigan,1,UMBC,16
+TR RATING,R64,Georgia,8,Saint Louis,9
+TR RATING,R64,Texas Tech,5,Akron,12
+TR RATING,R64,Alabama,4,Hofstra,13
+TR RATING,R64,Tennessee,6,SMU,11
+TR RATING,R64,Virginia,3,Wright St.,14
+TR RATING,R64,Kentucky,7,Santa Clara,10
+TR RATING,R64,Iowa St.,2,Tennessee St.,15
+TR RATING,R32,Duke,1,Ohio St.,8
+TR RATING,R32,St. John's,5,Kansas,4
+TR RATING,R32,Michigan St.,3,Louisville,6
+TR RATING,R32,Connecticut,2,UCLA,7
+TR RATING,R32,Florida,1,Iowa,9
+TR RATING,R32,Vanderbilt,5,Nebraska,4
+TR RATING,R32,Illinois,3,North Carolina,6
+TR RATING,R32,Houston,2,Saint Mary's,7
+TR RATING,R32,Arizona,1,Utah St.,9
+TR RATING,R32,Arkansas,4,Wisconsin,5
+TR RATING,R32,Gonzaga,3,BYU,6
+TR RATING,R32,Purdue,2,Miami FL,7
+TR RATING,R32,Michigan,1,Georgia,8
+TR RATING,R32,Alabama,4,Texas Tech,5
+TR RATING,R32,Tennessee,6,Virginia,3
+TR RATING,R32,Iowa St.,2,Kentucky,7
+TR RATING,S16,Duke,1,St. John's,5
+TR RATING,S16,Connecticut,2,Michigan St.,3
+TR RATING,S16,Florida,1,Vanderbilt,5
+TR RATING,S16,Houston,2,Illinois,3
+TR RATING,S16,Arizona,1,Arkansas,4
+TR RATING,S16,Purdue,2,Gonzaga,3
+TR RATING,S16,Michigan,1,Alabama,4
+TR RATING,S16,Iowa St.,2,Tennessee,6
+TR RATING,E8,Duke,1,Connecticut,2
+TR RATING,E8,Florida,1,Houston,2
+TR RATING,E8,Arizona,1,Purdue,2
+TR RATING,E8,Michigan,1,Iowa St.,2
+TR RATING,F4,Duke,1,Florida,1
+TR RATING,F4,Michigan,1,Arizona,1
+TR RATING,Final,Michigan,1,Duke,1
