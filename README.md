@@ -18,9 +18,6 @@ Real Final Four: Duke
 Setup
 Requires Python 3.12 with pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, requests, beautifulsoup4.
 
-cd ~/Desktop/Datathon
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn requests beautifulsoup4
-
 Data: download the Nishaan Amin Kaggle dataset into a folder called datathon set like we did. 
 
 Note: File naming conventions in the scripts may reference "datathon set" (with a space). Ensure your local folder name matches.
