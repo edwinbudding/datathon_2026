@@ -24,6 +24,9 @@ Data: download the Nishaan Amin Kaggle dataset into a folder called datathon set
 Note: File naming conventions in the scripts may reference "datathon set" (with a space). Ensure your local folder name matches.
 
 Sincerely,
+
 Anokh Palakurthi — MS Business Analytics, Brandeis '26
+
 Samiya Islam — MS Business Analytics, Brandeis '26
+
 Aastha Chavan — MS Business Analytics, Brandeis '26
