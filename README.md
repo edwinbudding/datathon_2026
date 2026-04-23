@@ -1,4 +1,4 @@
-How to Make Money and Lose Friends Betting on College Basketball
+**How to Make Money and Lose Friends Betting on College Basketball**
 2026 Brandeis Datathon — Team ASA (FINALIST)
 
 Our submission to the 2026 Brandeis Datathon, in which we built a five-script pipeline to predict March Madness outcomes using machine learning, efficiency metrics, and scraped Vegas closing lines. We found that ML models can beat Vegas on individual game predictions (+29.8% ROI for Random Forest across 32 out-of-sample bets), but championship prediction is still ruled by the market — the pre-tournament favorite wins 41% of the time and is profitable to bet on blindly.
