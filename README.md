@@ -12,8 +12,10 @@ Key Findings
 2_ When models disagree with Vegas, betting the underdog side is profitable (4/5 methods positive ROI).
 3) The pre-tournament market favorite has won 7/17 tournaments — champion prediction is where the market is most efficient.
 
-Our 2026 Predicted Final Four: Duke, Houston, Arizona, Michigan
-Real Final Four: Duke
+2026 ML Predicted Final Four: Duke, Houston, Arizona, Michigan
+ML Predicted Champion: Michigan
+2026 Actual Final Four: Michigan, Arizona, Connecticut, Illinois
+Actual Champion: Michigan
 
 Setup
 Requires Python 3.12 with pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, requests, beautifulsoup4.
